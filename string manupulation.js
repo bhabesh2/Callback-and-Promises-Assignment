@@ -15,4 +15,5 @@ function logString() {
 }
 
 manipulateString("hello, world!")(logString);
+
 // Output: The manipulated string is: HELLO, WORLD!
