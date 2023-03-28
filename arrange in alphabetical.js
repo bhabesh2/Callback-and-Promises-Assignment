@@ -16,3 +16,13 @@ function logBookTitles(titles) {
 }
 
 getBookTitles(books, logBookTitles);
+
+/*
+expected output
+
+Book titles in alphabetical order:
+1984
+Pride and Prejudice
+The Great Gatsby
+To Kill a Mockingbird
+*/
